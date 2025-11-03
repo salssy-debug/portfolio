@@ -1,2 +1,2 @@
 # portfolio
-data lengkap tentang diri saya
+data lengkap tentang diri saya, pengalaman saya
